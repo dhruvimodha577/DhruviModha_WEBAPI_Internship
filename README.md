@@ -21,3 +21,13 @@ This repository contains PHP practical assignments completed during Web Developm
 - Enrollment No: 246270307067
 - Semester: 5th
 - College: Government Polytechnic Porbandar
+
+## Learning Outcomes
+
+- Form validation using Regular Expressions
+- AJAX-based suggestions
+- XML import/export
+- PDF generation using FPDF
+- QR code integration
+- Google reCAPTCHA integration
+- Excel import/export
