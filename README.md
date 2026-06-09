@@ -22,16 +22,9 @@ This repository contains PHP practical assignments completed during Web Developm
 - Semester: 5th
 - College: Government Polytechnic Porbandar
 
-  ## Technologies Used
+ ## Technologies Used
 
-- PHP
-- HTML
-- CSS
-- JavaScript
-- AJAX
-- XML
-- FPDF
-- Google reCAPTCHA
+PHP, HTML, CSS, JavaScript, AJAX, XML, FPDF, Google reCAPTCHA
 
 ## Learning Outcomes
 
