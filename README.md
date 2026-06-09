@@ -14,5 +14,7 @@ Practical List:
 3. XML Import Export
 4. PDF Creation using FPDF
 5. QR Code Integration
+6. Google Captcha
+7. Excel import export
 
 GitHub Repository created as part of practical assignment.
