@@ -1,20 +1,23 @@
 # DhruviModha_WEBAPI_Internship
 
 # PHP Practical Assignments
-Student Name:Dhruvi Modha
-Enrollment No:246270307067
-Semester:5th
-collage:Government Polytechnic Porbandar
-Subject: Web Development & API Integration
 
-Practical List:
+This repository contains PHP practical assignments completed during Web Development and API Integration.
+
+## Practical List
 
 1. AJAX Auto Suggest
 2. Regular Expression Validation
 3. XML Import Export
-4. PDF Creation using FPDF
+4. PDF Generation using FPDF
 5. QR Code Integration
 6. Google Captcha
-7. Excel import export
+7. Excel Import Export
 
-GitHub Repository created as part of practical assignment.
+
+## Author
+
+- Name: Dhruvi Modha
+- Enrollment No: 246270307067
+- Semester: 5th
+- College: Government Polytechnic Porbandar
