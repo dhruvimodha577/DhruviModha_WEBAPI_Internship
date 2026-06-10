@@ -13,8 +13,7 @@ This repository contains PHP practical assignments completed during Web Developm
 5. QR Code Integration
 6. Google Captcha
 7. Excel Import Export
-
-
+  
 ## Author
 
 - Name: Dhruvi Modha
@@ -35,3 +34,6 @@ PHP, HTML, CSS, JavaScript, AJAX, XML, FPDF, Google reCAPTCHA
 - QR code integration
 - Google reCAPTCHA integration
 - Excel import/export
+
+## MIT - License
+Licensed under the MIT License. See LICENSE for details.
